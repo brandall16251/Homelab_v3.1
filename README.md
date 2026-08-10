@@ -18,7 +18,7 @@ These 5 serve to form the proof of concept for this homelab. Future projects may
 
 ## Current Lab
 
-See Infrastructure-Baseline.md for verbose specifications. 
+See [Infrastructure Baseline](Infrastructure-Baseline.md)  for verbose specifications. 
 
 I run everything from a Dell PowerEdge R730, which currently includes a simple 3-part design. Wazuh all-in-one hosted on Wazuh, Kali as an adversary, and a Windows 10 Pro endpoint that acts as a victim and Wazuh agent. All bridged on the same network-- for now. This baseline is simple because it was made to be broken, and I will specify modifications in each project. This baseline is restored after every project's publishing.
 
