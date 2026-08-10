@@ -14,7 +14,7 @@ This repository exists solely for the visibility of my technical skills as a sec
 - [Appendix B: Research](Appendix-b-research.md) — How I decided upon this project's specs, background and process only. 
 - [PoC Assets](assets/poc/) — What happened specifically, sources and evidence.
 
-These 5 serve to form the complete proof of purcahse for this homelab. Future projects may look different, but they are based on what I learned in the creation, execution, documentation, and presentation of those five documents. 
+These 5 serve to form the proof of concept for this homelab. Future projects may look different, but they are based on what I learned in the creation, execution, documentation, and presentation of those five documents. 
 
 ## Current Lab
 
