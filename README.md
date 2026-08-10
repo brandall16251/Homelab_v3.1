@@ -1,6 +1,6 @@
 # Homelab v3.1
 
-This repository documents my third attempt at a monitoring and detection homelab, wherein I showcase technical skills, progress, and process as a Cybersecurity practitioner. For less technical reading, please visit my co-authored blog, SolvingCyber.com, or visit me at linkedin.com/in/brian-randall-102621199/ .
+This repository documents my third attempt at a monitoring and detection homelab, wherein I showcase technical skills, progress, and process as a Cybersecurity practitioner. For less technical reading, please visit my co-authored blog, [SolvingCyber](https://solvingcyber.com/), or visit me at [LinkedIn](https://www.linkedin.com/in/brian-randall-102621199/).
 
 ## Purpose
 
