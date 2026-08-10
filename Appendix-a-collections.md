@@ -2,51 +2,13 @@
 
 <a id="major-section-01"></a>
 
-## The purpose of including the full version of collections is to “show my work”; this is the pool of evidence which I’ve sourced from during the exercise execution. These screenshots were analyzed and edited to fit the scope of my “PoC documentation” GitHub commit. The following is the unabridged version of this exercise, allowing greater visibility into process and scope.
+## Purpose 
+
+The [Exercise PoC](Exercise-PoC.md) displays a verbose level of analysis based on the initial execution of PoC Exercise. The following is an unabridged version of this execution, allowing greater visibility into process and scope. For context on this execution, see [Appendix B: Research](Appendix-b-research.md).
 
 ## Document Directory
 
 [Repository README](README.md) | [Infrastructure Baseline](Infrastructure-Baseline.md) | [Exercise PoC](Exercise-PoC.md) | [Appendix A: Collections](Appendix-a-collections.md) | [Appendix B: Research](Appendix-b-research.md)
-
-### Major headings
-
-- [The purpose of including the full version of collections is to “show my work”; this is the pool of evidence which I’ve sourced from during the exercise execution. These screenshots were analyzed and edited to fit the scope of my “PoC documentation” GitHub commit. The following is the unabridged version of this exercise, allowing greater visibility into process and scope.](#major-section-01)
-
-### Screenshots
-
-- [appendix-a-screenshot-01.png](#screenshot-appendix-a-01)
-- [appendix-a-screenshot-02.png](#screenshot-appendix-a-02)
-- [appendix-a-screenshot-03.png](#screenshot-appendix-a-03)
-- [appendix-a-screenshot-04.png](#screenshot-appendix-a-04)
-- [appendix-a-screenshot-05.png](#screenshot-appendix-a-05)
-- [appendix-a-screenshot-06.png](#screenshot-appendix-a-06)
-- [appendix-a-screenshot-07.png](#screenshot-appendix-a-07)
-- [appendix-a-screenshot-08.png](#screenshot-appendix-a-08)
-- [appendix-a-screenshot-09.png](#screenshot-appendix-a-09)
-- [appendix-a-screenshot-10.png](#screenshot-appendix-a-10)
-- [appendix-a-screenshot-11.png](#screenshot-appendix-a-11)
-- [appendix-a-screenshot-12.png](#screenshot-appendix-a-12)
-- [appendix-a-screenshot-13.png](#screenshot-appendix-a-13)
-- [appendix-a-screenshot-14.png](#screenshot-appendix-a-14)
-- [appendix-a-screenshot-15.png](#screenshot-appendix-a-15)
-- [appendix-a-screenshot-16.png](#screenshot-appendix-a-16)
-- [appendix-a-screenshot-17.png](#screenshot-appendix-a-17)
-- [appendix-a-screenshot-18.png](#screenshot-appendix-a-18)
-- [appendix-a-screenshot-19.png](#screenshot-appendix-a-19)
-- [appendix-a-screenshot-20.png](#screenshot-appendix-a-20)
-- [appendix-a-screenshot-21.png](#screenshot-appendix-a-21)
-- [appendix-a-screenshot-22.png](#screenshot-appendix-a-22)
-- [appendix-a-screenshot-23.png](#screenshot-appendix-a-23)
-- [appendix-a-screenshot-24.png](#screenshot-appendix-a-24)
-- [appendix-a-screenshot-25.png](#screenshot-appendix-a-25)
-- [appendix-a-screenshot-26.png](#screenshot-appendix-a-26)
-- [appendix-a-screenshot-27.png](#screenshot-appendix-a-27)
-- [appendix-a-screenshot-28.png](#screenshot-appendix-a-28)
-- [appendix-a-screenshot-29.png](#screenshot-appendix-a-29)
-- [appendix-a-screenshot-30.png](#screenshot-appendix-a-30)
-- [appendix-a-screenshot-31.png](#screenshot-appendix-a-31)
-- [appendix-a-screenshot-32.png](#screenshot-appendix-a-32)
-- [appendix-a-screenshot-33.png](#screenshot-appendix-a-33)
 
 ### 0.) Create a test user account on the Windows host to SSH into, exposing SSH and RDP
 
