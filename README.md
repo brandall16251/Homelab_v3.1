@@ -20,11 +20,13 @@ These 5 serve to form the proof of concept for this homelab. Future projects may
 
 See [Infrastructure Baseline](Infrastructure-Baseline.md)  for verbose specifications. 
 
-I run everything from a Dell PowerEdge R730, which currently includes a simple 3-part design. Wazuh all-in-one hosted on Wazuh, Kali as an adversary, and a Windows 10 Pro endpoint that acts as a victim and Wazuh agent. All bridged on the same network-- for now. This baseline is simple because it was made to be broken, and I will specify modifications in each project. This baseline is restored after every project's publishing.
+I run everything from a Dell PowerEdge R730, which currently includes a simple 3-part design. Wazuh all-in-one hosted on Ubuntu, Kali as an adversary, and a Windows 10 Pro endpoint that acts as a Wazuh agent and victim. All bridged on the same network-- for now. This baseline is simple because it was made to be broken, and I will specify modifications in each project. This baseline is restored after every project's publishing.
 
 ## External Writing
 
-- [SolvingCyber](https://solvingcyber.com/) — cybersecurity learning and professional writing
-- [LinkedIn](https://www.linkedin.com/in/brian-randall-102621199/) — project updates and professional background
+- [SolvingCyber](https://solvingcyber.com/) — co-authored blog including my journey and thoughts on wider Cybersecurity topics.
+- [LinkedIn](https://www.linkedin.com/in/brian-randall-102621199/) — Periodic updates and professional background
+
+## Contact
 
 If you like what you see here, feel free to reach out, I'm always open to connecting with fellow practitioners and lifelong learners. 
