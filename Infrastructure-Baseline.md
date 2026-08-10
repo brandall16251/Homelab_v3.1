@@ -2,6 +2,8 @@
 
 This document serves to explain my baseline infrastructure, as I plan to change things as is necessary per project. 
 
+[Repository README](README.md) | [Exercise PoC](Exercise-PoC.md) | [Appendix A: Collections](Appendix-a-collections.md) | [Appendix B: Research](Appendix-b-research.md)
+
 ## Network Topography 
 
 ```mermaid
