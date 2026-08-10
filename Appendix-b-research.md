@@ -4,58 +4,15 @@
 
 ## Purpose of including Background Research
 
-The purpose in containing the background research of this PoC exercise is to show my method of creation together a well-informed project aimed at education. The research shown below hopes to provide context for my process as a project planner and help other learners to better their planning processes, specifically as it pertains to research, narrowing scope, and pragmatic approaches to educational project design.
+The purpose in publishing background research is to showcase my process from step 1. The research shown below hopes to provide context for the proof of concept project and help other learners to better their planning processes, specifically as it pertains to research, narrowing scope, and pragmatic approaches to educational project design.
 
-Note that, in opposition to  [Appendix A: Collections](Appendix-a-collections.md), these notes are more of an observational diary. The learning process rarely happens cleanly, though I have cleaned this document enough to read.
+Note that, in opposition to [Appendix A: Collections](Appendix-a-collections.md), these notes are more of an observational diary. The learning process rarely happens cleanly, though I have cleaned this document enough to read.
 
 ## Document Directory
 
 [Repository README](README.md) | [Infrastructure Baseline](Infrastructure-Baseline.md) | [Exercise PoC](Exercise-PoC.md) | [Appendix A: Collections](Appendix-a-collections.md) | [Appendix B: Research](Appendix-b-research.md)
 
-### Screenshots
-
-- [appendix-b-screenshot-01.png](#screenshot-appendix-b-01)
-- [appendix-b-screenshot-02.png](#screenshot-appendix-b-02)
-- [appendix-b-screenshot-03.png](#screenshot-appendix-b-03)
-- [appendix-b-screenshot-04.png](#screenshot-appendix-b-04)
-- [appendix-b-screenshot-05.png](#screenshot-appendix-b-05)
-- [appendix-b-screenshot-06.png](#screenshot-appendix-b-06)
-- [appendix-b-screenshot-07.png](#screenshot-appendix-b-07)
-- [appendix-b-screenshot-08.png](#screenshot-appendix-b-08)
-- [appendix-b-screenshot-09.png](#screenshot-appendix-b-09)
-- [appendix-b-screenshot-10.png](#screenshot-appendix-b-10)
-- [appendix-b-screenshot-11.png](#screenshot-appendix-b-11)
-- [appendix-b-screenshot-12.png](#screenshot-appendix-b-12)
-- [appendix-b-screenshot-13.png](#screenshot-appendix-b-13)
-- [appendix-b-screenshot-14.png](#screenshot-appendix-b-14)
-- [appendix-b-screenshot-15.png](#screenshot-appendix-b-15)
-- [appendix-b-screenshot-16.png](#screenshot-appendix-b-16)
-- [appendix-b-screenshot-17.png](#screenshot-appendix-b-17)
-- [appendix-b-screenshot-18.png](#screenshot-appendix-b-18)
-- [appendix-b-screenshot-19.png](#screenshot-appendix-b-19)
-- [appendix-b-screenshot-20.png](#screenshot-appendix-b-20)
-- [appendix-b-screenshot-21.png](#screenshot-appendix-b-21)
-- [appendix-b-screenshot-22.png](#screenshot-appendix-b-22)
-- [appendix-b-screenshot-23.png](#screenshot-appendix-b-23)
-- [appendix-b-screenshot-24.png](#screenshot-appendix-b-24)
-- [appendix-b-screenshot-25.png](#screenshot-appendix-b-25)
-- [appendix-b-screenshot-26.png](#screenshot-appendix-b-26)
-- [appendix-b-screenshot-27.png](#screenshot-appendix-b-27)
-- [appendix-b-screenshot-28.png](#screenshot-appendix-b-28)
-- [appendix-b-screenshot-29.png](#screenshot-appendix-b-29)
-- [appendix-b-screenshot-30.png](#screenshot-appendix-b-30)
-- [appendix-b-screenshot-31.png](#screenshot-appendix-b-31)
-- [appendix-b-screenshot-32.png](#screenshot-appendix-b-32)
-- [appendix-b-screenshot-33.png](#screenshot-appendix-b-33)
-- [appendix-b-screenshot-34.png](#screenshot-appendix-b-34)
-- [appendix-b-screenshot-35.png](#screenshot-appendix-b-35)
-- [appendix-b-screenshot-36.png](#screenshot-appendix-b-36)
-- [appendix-b-screenshot-37.png](#screenshot-appendix-b-37)
-- [appendix-b-screenshot-38.png](#screenshot-appendix-b-38)
-- [appendix-b-screenshot-39.png](#screenshot-appendix-b-39)
-- [appendix-b-screenshot-40.png](#screenshot-appendix-b-40)
-- [appendix-b-screenshot-41.png](#screenshot-appendix-b-41)
-- [appendix-b-screenshot-42.png](#screenshot-appendix-b-42)
+## The following is taken directly from my personal research notes
 
 ### My scope looks something like this:
 
