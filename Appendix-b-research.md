@@ -2,17 +2,15 @@
 
 <a id="major-section-01"></a>
 
-## The purpose in containing the background research of this PoC exercise is to show the level of research and kinds of findings it takes to put together a well-informed project aimed at education. Too few learners put documentation of their process out in the open. The research shown below hopes to provide context for my process as a project planner and help other learners to better their planning processes–specifically as it pertains to research, narrowing scope, and pragmatic approaches to educational project design.
+## Purpose of including Background Research
 
-Note that, in opposition to the prior collections sequence, these notes are more of a chronological log or observational diary. The learning process rarely happens cleanly, although I have cleaned this document enough to understand by an outside observer.
+The purpose in containing the background research of this PoC exercise is to show my method of creation together a well-informed project aimed at education. The research shown below hopes to provide context for my process as a project planner and help other learners to better their planning processes, specifically as it pertains to research, narrowing scope, and pragmatic approaches to educational project design.
+
+Note that, in opposition to  [Appendix A: Collections](Appendix-a-collections.md), these notes are more of an observational diary. The learning process rarely happens cleanly, though I have cleaned this document enough to read.
 
 ## Document Directory
 
 [Repository README](README.md) | [Infrastructure Baseline](Infrastructure-Baseline.md) | [Exercise PoC](Exercise-PoC.md) | [Appendix A: Collections](Appendix-a-collections.md) | [Appendix B: Research](Appendix-b-research.md)
-
-### Major headings
-
-- [The purpose in containing the background research of this PoC exercise is to show the level of research and kinds of findings it takes to put together a well-informed project aimed at education. Too few learners put documentation of their process out in the open. The research shown below hopes to provide context for my process as a project planner and help other learners to better their planning processes–specifically as it pertains to research, narrowing scope, and pragmatic approaches to educational project design.](#major-section-01)
 
 ### Screenshots
 
