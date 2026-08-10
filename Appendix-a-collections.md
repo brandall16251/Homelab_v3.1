@@ -10,6 +10,8 @@ The [Exercise PoC](Exercise-PoC.md) displays a verbose level of analysis based o
 
 [Repository README](README.md) | [Infrastructure Baseline](Infrastructure-Baseline.md) | [Exercise PoC](Exercise-PoC.md) | [Appendix A: Collections](Appendix-a-collections.md) | [Appendix B: Research](Appendix-b-research.md)
 
+## The following is taken directly from my personal execution and collections notes 
+
 ### 0.) Create a test user account on the Windows host to SSH into, exposing SSH and RDP
 
 <a id="screenshot-appendix-a-01"></a>
