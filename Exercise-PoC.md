@@ -8,6 +8,8 @@ Heading:
 
 The purpose of this is to demonstrate the primary purposes of the homelabv3.1 repository–monitoring and detection with a focus on (1) SOC Analyst skillsets, (2) pragmatic approaches to educational project planning, and (3) project execution from the perspective of the learner.
 
+## Future Plans 
+
 In the exercises and documentation to come, the focus will be depth of expertise in areas such as:
 
 - triage/investigation
@@ -38,24 +40,6 @@ For now, this Proof of Concept (PoC) simply serves as the baseline of presentati
 - [Realworld scenario exploration](#major-section-08)
 - [Results and lessons learned](#major-section-09)
 - [Restoration](#major-section-10)
-
-### Screenshots
-
-- [exercise-screenshot-01.png](#screenshot-exercise-01)
-- [exercise-screenshot-02.png](#screenshot-exercise-02)
-- [exercise-screenshot-03.png](#screenshot-exercise-03)
-- [exercise-screenshot-04.png](#screenshot-exercise-04)
-- [exercise-screenshot-05.png](#screenshot-exercise-05)
-- [exercise-screenshot-06.png](#screenshot-exercise-06)
-- [exercise-screenshot-07.png](#screenshot-exercise-07)
-- [exercise-screenshot-08.png](#screenshot-exercise-08)
-- [exercise-screenshot-09.png](#screenshot-exercise-09)
-- [exercise-screenshot-10.png](#screenshot-exercise-10)
-- [exercise-screenshot-11.png](#screenshot-exercise-11)
-- [exercise-screenshot-12.png](#screenshot-exercise-12)
-- [exercise-screenshot-13.png](#screenshot-exercise-13)
-
-<a id="major-section-02"></a>
 
 ## Scope
 
@@ -498,8 +482,8 @@ As an analyst, looking at a dashboard with 1,329 alerts looks nearly the same as
 
 ## Restoration
 
-While this exercise permits itself to the start of a much larger exploit chain and series of projects, I have chosen to scope new projects for such purposes, thereby, the baseline found in Infrastructure-Baseline will be restored.
+While this exercise permits itself to the start of a much larger exploit chain and series of projects, I have chosen to scope new projects for such purposes, thereby, the baseline found in  [Infrastructure Baseline](Infrastructure-Baseline.md) will be restored.
 
 # Further documentation
 
-For further documentation of Wazuh findings and attempted rule firings, the Kali perspective, and my Wazuh rule id research which fueled the scope of this project, see [PoC-Appendix](Appendix-a-collections.md).
+For further documentation of Wazuh findings and attempted rule firings, the Kali perspective, and my Wazuh rule id research which fueled the scope of this project, see [PoC-Appendix](Appendix-a-collections.md) and [Appendix B: Research](Appendix-b-research.md) respectively. 
