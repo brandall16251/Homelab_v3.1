@@ -94,16 +94,4 @@ flowchart TB
 
 ## Baseline Change Control
 
-Changes exist on a per-project basis and will be documented explicitly as an intentional departure from this baseline. The changelog template is as follows:
-
-| Component               | Baseline State           | Exercise Modification | Effect on Attack Surface                | Restoration Status    |
-| ----------------------- | ------------------------ | --------------------- | --------------------------------------- | --------------------- |
-| *Document per exercise* | *Original configuration* | *Intentional change*  | *Resulting exposure or security impact* | *Restored / Retained* |
-
-An example of this changelog in action would look like: 
-
-| Component        | Baseline State                         | Exercise Modification                  | Effect on Attack Surface                                     | Restoration Status |
-| ---------------- | -------------------------------------- | -------------------------------------- | ------------------------------------------------------------ | ------------------ |
-| Windows Firewall | SSH access limited to approved systems | Permitted SSH traffic from the Kali VM | Enabled password-based attacks from the simulated adversary  | Restored          |
-| User Account     | Strong password configured             | Assigned a deliberately weak password  | Increased susceptibility to credential attacks               | Restored           |
-| Remote Desktop   | RDP access restricted                  | Permitted RDP traffic from the Kali VM | Exposed remote authentication to simulated adversary traffic | Restored           |
+Changes exist on a per-project basis and will be documented explicitly as an intentional departure from this baseline. 
