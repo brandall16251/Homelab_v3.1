@@ -123,7 +123,7 @@ Actual alerts found (matches marked with “!”):
 
 ### Exercise Summary (writeup)
 
-I simulated a brief, 7-step intrusion path from a Kali VM to a Windows 10 workstation with the presumption of certain rules firing based on my research into Wazuh rulesets (see appendix: research). Upon executing the Kali intrusion path, I attempted a succinct search using Rule ID’s from the researched ruleset, only to find that most rules were not fired, but the logic behind the rule existed elsewhere. This led to a fuller investigation, wherein I had to search for evidence of the adversary’s movements.
+I simulated a brief, 7-step intrusion path from a Kali VM to a Windows 10 workstation with the presumption of certain rules firing based on my research into Wazuh rulesets (see [Appendix-b-research.md](Appendix-b-research.md)). Upon executing the Kali intrusion path, I attempted a succinct search using Rule ID’s from the researched ruleset, only to find that most rules were not fired, but the logic behind the rule existed elsewhere. This led to a fuller investigation, wherein I had to search for evidence of the adversary’s movements.
 
 Specifically, the 7 step pathway used was:
 
