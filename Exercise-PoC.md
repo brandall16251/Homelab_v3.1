@@ -6,7 +6,7 @@ Heading:
 
 ## The purposes of this exercise
 
-The purpose of this is to demonstrate the primary purposes of the homelabv3.1 repository–monitoring and detection with a focus on (1) SOC Analyst skillsets, (2) pragmatic approaches to educational project planning, and (3) project execution from the perspective of the learner.
+The purpose of this is to demonstrate the primary purposes of the homelabv3.1 repository--monitoring and detection with a focus on (1) SOC Analyst skillsets, (2) pragmatic approaches to educational project planning, and (3) project execution from the perspective of the learner.
 
 ## Future Plans 
 
@@ -22,7 +22,7 @@ In the exercises and documentation to come, the focus will be depth of expertise
 
 - APT re-creation
 
-For now, this Proof of Concept (PoC) simply serves as the baseline of presentation and workflow for the homelab. As such, an appropriately general and narrow scope has been chosen for this PoC exercise.
+For now, this Proof of Concept (PoC) simply serves as the baseline of presentation and workflow for the homelab. As such, an appropriately common yet narrow scope has been chosen for this PoC exercise.
 
 ## Document Directory
 
